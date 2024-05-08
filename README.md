@@ -22,7 +22,8 @@ This is a simple todo application with the following features:
 - Use the dropdown menu to filter tasks by status (default, completed, incomplete).
 
 
-Please Refer the screenSHots mentioned below
+
+Please Refer the screenshots mentioned below
 
 
 ![Screenshot from 2024-05-08 17-42-10](https://github.com/vivekkotecha16/todo-app/assets/167018102/b86a073b-95d0-4c14-97a0-ce919318983e)
